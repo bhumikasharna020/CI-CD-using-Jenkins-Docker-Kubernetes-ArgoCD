@@ -15,8 +15,8 @@ This project was created for learning and practicing DevOps concepts.
 ## Installation on EC2 Instance
 
 
+![CI/CD Project Banner](https://raw.githubusercontent.com/bhumikasharma/CI-CD-using-Jenkins-Docker-Kubernetes-ArgoCD/main/images/cicd-banner.png)
 
-![Screenshot 2023-02-01 at 5 46 14 PM](https://user-images.githubusercontent.com/43399466/216040281-6c8b89c3-8c22-4620-ad1c-8edd78eb31ae.png)
 
 Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
 
